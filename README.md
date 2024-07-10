@@ -1,5 +1,5 @@
 # Vue 3 Mapbox GL JS
-A Vue 3 composable version of the example provided in https://docs.mapbox.com/help/tutorials/use-mapbox-gl-js-with-vue/. Built with Vite.
+A Vue 3 composable version of the example provided in this [Mapbox Tutorial](https://docs.mapbox.com/help/tutorials/use-mapbox-gl-js-with-vue/). Built with Vite.
 
 ## Project Setup
 
